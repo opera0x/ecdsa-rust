@@ -1,0 +1,8 @@
+# Directories
+target
+
+# Files
+Cargo.lock
+
+# User Settings
+.vscode
